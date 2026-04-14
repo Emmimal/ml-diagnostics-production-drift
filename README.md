@@ -12,7 +12,7 @@ This repository contains the full reproducible code for the article published on
 **Part of the ML Diagnostics Mastery Series:**
 - [Part 1: Overfitting, Instability & Data Leakage](https://emitechlogic.com/how-to-diagnose-overfitting-in-machine-learning-9-proven-tools/) → [companion repo](https://github.com/Emmimal/ml-diagnostics-overfitting)
 - [Part 2: Class Imbalance, Threshold Tuning & Calibration](https://emitechlogic.com/how-to-diagnose-and-fix-class-imbalance-in-machine-learning-complete-guide/)
-- **Part 3: Production Drift & Monitoring Systems (You Are Here)**
+- **Part 3: Production Drift & Monitoring Systems ([You Are Here](https://emitechlogic.com/how-to-detect-and-fix-production-drift-in-machine-learning-complete-guide/))**
 
 ## What This Repository Covers
 
